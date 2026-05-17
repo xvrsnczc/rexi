@@ -1,0 +1,14 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.env
+assets/.env
+
+# IntelliJ
+*.iml
+.idea/
+
+# Misc
+*.log
